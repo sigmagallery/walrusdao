@@ -1,0 +1,46 @@
+nfts:
+- tokenId: 7222d8ccd0da6ff4a02d4cd809ac3e017b1e6c1c005a97db7c0e8703294d0114
+  name: 'The Walrus Dude #1'
+  description: >-
+    {"721": {"The Walrus Dude #1": {"ID": "1 of 5", "Colour": "Pink",
+    "Description": "Art House from Walrus DAO presents The Walrus Dude",
+    "Artist": "Netanel Cohen", "Twitter": "@netanelchn / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicbmniq2atqy2foph7cc5d2jacgijxwjpwd4s3wwdnhxr5axqnrmq
+- tokenId: 05443a6cdc2ab33c191e2f64efb6bf51f8725245d42d2f1f6a4995df5c6ed9aa
+  name: 'The Walrus Dude #2'
+  description: >-
+    {"721": {"The Walrus Dude #2": {"ID": "2 of 5", "Colour": "Green",
+    "Description": "Art House from Walrus DAO presents The Walrus Dude",
+    "Artist": "Netanel Cohen", "Twitter": "@netanelchn / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiajte7oliffowgirrisdhsjbirnapbm3q53hqzxa7xfhqgno3uh3i
+- tokenId: baafde5720a006143724c4901ab9904a60a8bc8c272db6562da5cfef5da7ce79
+  name: 'The Walrus Dude #3'
+  description: >-
+    {"721": {"The Walrus Dude #3": {"ID": "3 of 5", "Colour": "Blue",
+    "Description": "Art House from Walrus DAO presents The Walrus Dude",
+    "Artist": "Netanel Cohen", "Twitter": "@netanelchn / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeib2njdqao6itntuykyff25nx5y3ysnoak2v3r7idp3vyw6sbvgn2i
+- tokenId: 5547bb1f8b3f08c5ef32282e7d1c179a8317eb3ba800f7d6fe4603bf4583c152
+  name: 'The Walrus Dude #4'
+  description: >-
+    {"721": {"The Walrus Dude #4": {"ID": "4 of 5", "Colour": "Grey",
+    "Description": "Art House from Walrus DAO presents The Walrus Dude",
+    "Artist": "Netanel Cohen", "Twitter": "@netanelchn / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibichpnlbr6m7wszbh7l6mfk7ydhjbe2qh4xc54mfnwucc27enxcq
+- tokenId: 35cf5e293f543cf5066371432d82182282f8f016514b3f346cba893b105ad8ad
+  name: 'The Walrus Dude #5'
+  description: >-
+    {"721": {"The Walrus Dude #5": {"ID": "5 of 5", "Colour": "Brown",
+    "Description": "Art House from Walrus DAO presents The Walrus Dude",
+    "Artist": "Netanel Cohen", "Twitter": "@netanelchn / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeia46l4jyu56isejs4cgqapalnkfiy5a5vc2zralkss65iw37dmap4
