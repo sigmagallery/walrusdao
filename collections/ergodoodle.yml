@@ -1,0 +1,27 @@
+- tokenId: ceef46eea5ffcee548ff6dbc6b71a0021b05e9d34e9a428d76c25ebada8dc944
+  name: 'Ergo Doodle #1'
+  description: >-
+    {"721": {"Ergo Doodle #1": {"ID": "1 of 3", "Colour": "Purple & Orange",
+    "Description": "Art House from Walrus DAO presents Ergo Doodle", "Artist":
+    "Henry TG", "Twitter": "@HenryTG6 / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiaj3t3eodidcsspm4d5en2qmjuvypkxqvn53lgq56ovnkjzjppggm
+- tokenId: a68de2b407e630bc952271ded1953c6ac497bc1c92de82793a96329853e8beb7
+  name: 'Ergo Doodle #2'
+  description: >-
+    {"721": {"Ergo Doodle #2": {"ID": "2 of 3", "Colour": "Blue & Green",
+    "Description": "Art House from Walrus DAO presents Ergo Doodle", "Artist":
+    "Henry TG", "Twitter": "@HenryTG6 / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicpdkfdr6huu3ap6pdflt5opvj6vru2xschssbp6bpdlifpieabre
+- tokenId: e01abfae9e2a8b3b26f8d26bf50ceee7993daefbc272755d28e6323ad18e5ec7
+  name: 'Ergo Doodle #3'
+  description: >-
+    {"721": {"Ergo Doodle #3": {"ID": "3 of 3", "Colour": "Yellow & Pink",
+    "Description": "Art House from Walrus DAO presents Ergo Doodle", "Artist":
+    "Henry TG", "Twitter": "@HenryTG6 / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidlys7kxgjn4dcyaxt5jb5z4lgg6zainzuhdb6fxrcglqperp3g4e
