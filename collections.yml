@@ -3,6 +3,8 @@ collections:
   data: thewalrusdude.yml
 - label: Mic Battle Champion
   data: micbattlechampion.yml
+- label: Battle Of The Sea
+  data: battleofthesea.yml
 - label: Minwha Tiger
   data: minwha-tiger.yml
 
