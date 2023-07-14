@@ -9,4 +9,6 @@ collections:
   data: deepwater.yml
 - label: Minwha Tiger
   data: minwha-tiger.yml
+- label: Ergo Doodle
+  data: ergodoodle.yml
 
