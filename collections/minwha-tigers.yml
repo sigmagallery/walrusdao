@@ -1,0 +1,46 @@
+nfts:
+- tokenId: 1765f88b05d7c125e113de22d884aa16b9d3bf1b88391e6cd0b18b83cd0863c3
+  name: 'Minwha Tiger #1'
+  description: >-
+    {"721": {"Minwha Tiger #1": {"ID": "1 of 5", "Colour": "Blue",
+    "Description": "Art House from Walrus DAO presents Minwha Tiger", "Artist":
+    "Bungking", "Twitter": "@Fiqhi_Alfani / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiawn47ermmdooparhi5cpplqclct755smh5rqm2gqnovekamqrtpe
+- tokenId: d03f9274f3d3bf4c1d7b21ce5e9ad8c42a8010e76400fba91774086fafc2a25d
+  name: 'Minwha Tiger #2'
+  description: >-
+    {"721": {"Minwha Tiger #2": {"ID": "2 of 5", "Colour": "Black",
+    "Description": "Art House from Walrus DAO presents Minwha Tiger", "Artist":
+    "Bungking", "Twitter": "@Fiqhi_Alfani / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeia4uslme4joerwhvpnmeto275etuddz7fl242yqcgu6ik2fguycvi
+- tokenId: 1a7a293b2a691e0f1facc1bdc5aabd3cf5f3165ed7092af667011980bad032b6
+  name: 'Minwha Tiger #3'
+  description: >-
+    {"721": {"Minwha Tiger #3": {"ID": "3 of 5", "Colour": "Gold",
+    "Description": "Art House from Walrus DAO presents Minwha Tiger", "Artist":
+    "Bungking", "Twitter": "@Fiqhi_Alfani / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeiddgqixn5enb3rvdj4j6eeqohpxnkadehxhlz3djxkkd2cov6txra
+- tokenId: 69cbd9087b2f6eb8bc9784e8c3070d899595c76e488ca6d1af6d4b146618732d
+  name: 'Minwha Tiger #4'
+  description: >-
+    {"721": {"Minwha Tiger #4": {"ID": "4 of 5", "Colour": "Grey",
+    "Description": "Art House from Walrus DAO presents Minwha Tiger", "Artist":
+    "Bungking", "Twitter": "@Fiqhi_Alfani / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeihtpp7h2udqv5oy5hjmexjz6qs5ugtvodieswfsqtoubm3ebzauhq
+- tokenId: ead7d92cbeef5c9a0e4c4fde99c176c31b802c25da5cb742e0fbca4d583c6013
+  name: 'Minwha Tiger #5'
+  description: >-
+    {"721": {"Minwha Tiger #5": {"ID": "5 of 5", "Colour": "Orange",
+    "Description": "Art House from Walrus DAO presents Minwha Tiger", "Artist":
+    "Bungking", "Twitter": "@Fiqhi_Alfani / @WalrusDAO", "Website":
+    "www.walrusdao.io"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeidcwgapppdcbb64qacqewewdf3v2mf6deev45o5tvlxgpe5tcbd6m
