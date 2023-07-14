@@ -5,6 +5,8 @@ collections:
   data: micbattlechampion.yml
 - label: Battle Of The Sea
   data: battleofthesea.yml
+- label: Deep Water
+  data: deepwater.yml
 - label: Minwha Tiger
   data: minwha-tiger.yml
 
