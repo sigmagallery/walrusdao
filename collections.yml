@@ -1,3 +1,5 @@
 collections:
-- label: Minwha Tigers
-  data: minwha-tigers.yml
+- label: Minwha Tiger
+  data: minwha-tiger.yml
+- label: The Walrus Dude
+  data: thewalrusdude.yml
