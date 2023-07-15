@@ -11,4 +11,5 @@ collections:
   data: minwha-tiger.yml
 - label: Ergo Doodle
   data: ergodoodle.yml
-
+- label: Walrus DAO Logo
+  data: walrusdaologo.yml
