@@ -1,0 +1,41 @@
+nfts:
+- tokenId: 2b497694f995f005f67843073b9d13ba748004ab1b0afcb10c1113bb6e47aea6
+  name: 'Walrus DAO Logo #1'
+  description: >-
+    {"721": {"Walrus DAO Logo #1": {"Colour": "Brown", "Artist": "@HenryTG6",
+    "Collection": "Walrus DAO Logo", "Website": "www.walrusdao.io", "Socials":
+    "twitter.com/WalrusDAO"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeicrqoo5hf76hg4pty2smaytwljxicxxpqiw47xnkn6vc776nwsd4u
+- tokenId: d5ab3f030ebc8a330103efd309bf5d3cbc6ef719252766e85bb667c5c73dc7cf
+  name: 'Walrus DAO Logo #2'
+  description: >-
+    {"721": {"Walrus DAO Logo #2": {"Colour": "Aqua", "Artist": "@HenryTG6",
+    "Collection": "Walrus DAO Logo", "Website": "www.walrusdao.io", "Socials":
+    "twitter.com/WalrusDAO"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeigw4ktv2mfbozadqhh565purfr76swau4izoxtzsiqn5ym5mepavi
+- tokenId: 714e4188db927f2a8da047423553a890c69e448c34adb6acb3e38548bd731ea3
+  name: 'Walrus DAO Logo #3'
+  description: >-
+    {"721": {"Walrus DAO Logo #3": {"Colour": "Red", "Artist": "@HenryTG6",
+    "Collection": "Walrus DAO Logo", "Website": "www.walrusdao.io", "Socials":
+    "twitter.com/WalrusDAO"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibuf6hwwb3k4n7m5acxruje7lecflw4im7zctbqred23wcmqbetmi
+- tokenId: d904a17f737b43868fcb6c7d84a0efe7cc5287b21419c709a391f8513c8abd12
+  name: 'Walrus DAO Logo #4'
+  description: >-
+    {"721": {"Walrus DAO Logo #4": {"Colour": "Grey", "Artist": "@HenryTG6",
+    "Collection": "Walrus DAO Logo", "Website": "www.walrusdao.io", "Socials":
+    "twitter.com/WalrusDAO"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeibmvbqnydx274tlkmwtx6wmssxsnjsdz2adnwbmwnpixgsngfw3pu
+- tokenId: 2239930c857fcb0b8104257df4df100cbbbf603812d6f11d6f62d4e586dfc7b6
+  name: 'Walrus DAO Logo #5'
+  description: >-
+    {"721": {"Walrus DAO Logo #5": {"Colour": "Green", "Artist": "@HenryTG6",
+    "Collection": "Walrus DAO Logo", "Website": "www.walrusdao.io", "Socials":
+    "twitter.com/WalrusDAO"}}}
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeig2srjxpyjhcpxmvnsycd7mgqajhkk4qdr3i2toyyslqxsox7ux3i
