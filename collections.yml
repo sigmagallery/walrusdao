@@ -23,3 +23,6 @@ collections:
 - label: T-Rekt
   data: t-rekt.yml
   image: https://ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/66.png
+- label: Tiger & Magpie
+  data: tiger-magpie.yml
+  image: https://ipfs.io/ipfs/bafybeihlvucno4bp67bl7edai4hj64bamwriu4i6tvgprixu42vftk3ome
