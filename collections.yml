@@ -21,7 +21,7 @@ collections:
   data: walrusdaologo.yml
   image: https://gateway.ipfs.io/ipfs/bafybeicrqoo5hf76hg4pty2smaytwljxicxxpqiw47xnkn6vc776nwsd4u
 - label: T-Rekt
-  data: t-rekt.yml
+  data: trekt.yml
   image: https://ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/66.png
 - label: Tiger & Magpie
   data: tiger-magpie.yml
