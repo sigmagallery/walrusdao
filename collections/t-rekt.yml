@@ -4,6 +4,16 @@ nfts:
   description: Series 3. T-Rekt by Walrus DAO
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/7.png
+- tokenId: 9808aac26fa9663fe29944649d269366775b1dd27cfcc0b031d7d4b5be77bf3e
+  name: 'T-Rekt #0024'
+  description: Series 3. T-Rekt by Walrus DAO
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/24.png
+- tokenId: d97c150ae6068db15611ef54ffa0aec385e4f7ceebb6df281c5aa1290a67da8b
+  name: 'T-Rekt #0025'
+  description: Series 3. T-Rekt by Walrus DAO
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/25.png
 - tokenId: 2aed1f050a46d63665fb4041ab6216d01bcde84f058f4f8c0d80c8b83ff7e849
   name: 'T-Rekt #0044'
   description: Series 3. T-Rekt by Walrus DAO
@@ -64,6 +74,11 @@ nfts:
   description: Series 3. T-Rekt by Walrus DAO
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/156.png
+- tokenId: b6ae7091605e06654373341d8066804f172f4afe658befa44934b27bca1fe6a8
+  name: 'T-Rekt #0167'
+  description: Series 3. T-Rekt by Walrus DAO
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/167.png
 - tokenId: 05e641e97c44f231ae98c48968845dadfdb381efba80dae96593aa76e3e0679c
   name: 'T-Rekt #0177'
   description: Series 3. T-Rekt by Walrus DAO
@@ -139,6 +154,11 @@ nfts:
   description: Series 3. T-Rekt by Walrus DAO
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/372.png
+- tokenId: 5247a43b596fdf5d4f7370c6e41ee9025e2248d833f8701785712b34ae2427de
+  name: 'T-Rekt #0373'
+  description: Series 3. T-Rekt by Walrus DAO
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/373.png
 - tokenId: 11c1473eb09663f90093e12a79889a548adfed5474f498e875ccac158f4504b5
   name: 'T-Rekt #0382'
   description: Series 3. T-Rekt by Walrus DAO
@@ -149,6 +169,11 @@ nfts:
   description: Series 3. T-Rekt by Walrus DAO
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/384.png
+- tokenId: e161616f8cfdd43c894c88cec3b545e01f9e0ce26795fe557121ef81b85dcf7d
+  name: 'T-Rekt #0392'
+  description: Series 3. T-Rekt by Walrus DAO
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/392.png
 - tokenId: 50c94d1056a8b91643bfe0937ba2f68236a54b211e49ea05a40db559bf41b767
   name: 'T-Rekt #0412'
   description: Series 3. T-Rekt by Walrus DAO
@@ -199,6 +224,11 @@ nfts:
   description: Series 3. T-Rekt by Walrus DAO
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/528.png
+- tokenId: bfa7c8e683b902fa8c29221e4704a20c66d797f83d4c550525e6a912eeb9c89b
+  name: 'T-Rekt #0534'
+  description: Series 3. T-Rekt by Walrus DAO
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/534.png
 - tokenId: 2b38fc2dccd98d9b3df7cb4775b84e83592696717e42c90253d01e577d4b737e
   name: 'T-Rekt #0548'
   description: Series 3. T-Rekt by Walrus DAO
@@ -209,6 +239,16 @@ nfts:
   description: Series 3. T-Rekt by Walrus DAO
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/576.png
+- tokenId: 23c6e4f044684c3fdde4317159b6eda2e55b3b19043dd69090dd1bacd45cfd30
+  name: 'T-Rekt #0581'
+  description: Series 3. T-Rekt by Walrus DAO
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/581.png
+- tokenId: b0c2eea97dc417189241cbfd0b44df0397bcdd098ac41a089ff88f6dac52e669
+  name: 'T-Rekt #0582'
+  description: Series 3. T-Rekt by Walrus DAO
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/582.png
 - tokenId: 22125c0b9463b07f327587bce3ad7dd044a04dffe91194bc8b67d153494c86d6
   name: 'T-Rekt #0590'
   description: Series 3. T-Rekt by Walrus DAO
@@ -254,6 +294,11 @@ nfts:
   description: Series 3. T-Rekt by Walrus DAO
   imageUrl: >-
     https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/681.png
+- tokenId: 90e7be8218d7923b5fba381527cc9503e6ef943831254bfae4b90c6233ffa893
+  name: 'T-Rekt #0703'
+  description: Series 3. T-Rekt by Walrus DAO
+  imageUrl: >-
+    https://gateway.ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/703.png
 - tokenId: 28bcc0aa5e30dbeacbd23d7a851e780b3d6f0594b8b34fd1c37a9cd504075f12
   name: 'T-Rekt #0708'
   description: Series 3. T-Rekt by Walrus DAO
