@@ -4,6 +4,7 @@ collections:
   image: https://ipfs.io/ipfs/bafybeia46l4jyu56isejs4cgqapalnkfiy5a5vc2zralkss65iw37dmap4
 - label: Mic Battle Champion
   data: micbattlechampion.yml
+  image: https://gateway.ipfs.io/ipfs/bafybeieglp22h36kmjscik6nglxqwgdxtefaid6z7fyiw5osxqp6s3pev4
 - label: Battle Of The Sea
   data: battleofthesea.yml
 - label: Deep Water
