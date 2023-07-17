@@ -26,3 +26,6 @@ collections:
 - label: Tiger & Magpie
   data: tiger-magpie.yml
   image: https://ipfs.io/ipfs/bafybeihlvucno4bp67bl7edai4hj64bamwriu4i6tvgprixu42vftk3ome
+- label: Degen Divers
+  data: degendivers.yml
+  image: https://ipfs.io/ipfs/bafybeibj3prqmsxzyyaaj5pkvmokqknwaqb7ciw6bbtnsx773be2tr756i
