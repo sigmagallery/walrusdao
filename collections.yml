@@ -1,4 +1,10 @@
 collections:
+- label: T Rekt
+  data: t-rekt.yml
+  image: https://ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/66.png
+- label: Degen Divers
+  data: degendivers.yml
+  image: https://ipfs.io/ipfs/bafybeibj3prqmsxzyyaaj5pkvmokqknwaqb7ciw6bbtnsx773be2tr756i
 - label: The Walrus Dude
   data: thewalrusdude.yml
   image: https://ipfs.io/ipfs/bafybeia46l4jyu56isejs4cgqapalnkfiy5a5vc2zralkss65iw37dmap4
@@ -20,12 +26,6 @@ collections:
 - label: Walrus DAO Logo
   data: walrusdaologo.yml
   image: https://gateway.ipfs.io/ipfs/bafybeicrqoo5hf76hg4pty2smaytwljxicxxpqiw47xnkn6vc776nwsd4u
-- label: "T-Rekt"
-  data: t-rekt.yml
-  image: https://ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/66.png
 - label: Tiger & Magpie
   data: tiger-magpie.yml
   image: https://ipfs.io/ipfs/bafybeihlvucno4bp67bl7edai4hj64bamwriu4i6tvgprixu42vftk3ome
-- label: Degen Divers
-  data: degendivers.yml
-  image: https://ipfs.io/ipfs/bafybeibj3prqmsxzyyaaj5pkvmokqknwaqb7ciw6bbtnsx773be2tr756i
