@@ -1,8 +1,8 @@
 collections:
 - label: T-Rekt
   data: t-rekt.yml
-  description: "T-Rekt from Walrus DAO brings you 800 one-of-a-kind NFTs exclusive to Ergo and 100% hand drawn."
   image: https://ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/66.png
+  description: "T-Rekt from Walrus DAO brings you 800 one-of-a-kind NFTs exclusive to Ergo and 100% hand drawn."
 - label: Degen Divers
   data: degendivers.yml
   image: https://ipfs.io/ipfs/bafybeibj3prqmsxzyyaaj5pkvmokqknwaqb7ciw6bbtnsx773be2tr756i
