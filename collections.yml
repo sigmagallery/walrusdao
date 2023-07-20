@@ -1,19 +1,19 @@
 collections:
 - label: T-Rekt
   data: t-rekt.yml
-  image: https://ipfs.io/ipfs/bafybeid2fftkre5ksjq3mlav7ijnesz2d5zaiwiqisk7iqz7o4k7fa7ffe/66.png
+  image: https://img1.sigma.gallery/arthouse/t-rekt/79746d7885151304a301274407ee93c9f6b7520c74b49878b3dd4c231673d2a7.webp
   description: T-Rekt from Walrus DAO brings you 800 one-of-a-kind NFTs exclusive to Ergo and 100% hand drawn.
 - label: Degen Divers
   data: degendivers.yml
-  image: https://ipfs.io/ipfs/bafybeibj3prqmsxzyyaaj5pkvmokqknwaqb7ciw6bbtnsx773be2tr756i
+  image: https://img1.sigma.gallery/arthouse/degen-divers/4ed52fa854390167f097731240f7228e4862a5ba5a21214719a8bc83580c7722.webp
   description: Degen Divers from Walrus DAO bring a colourful underwater world to life. 300 unique, hand drawn, NFTs exclusive to Ergo.
 - label: The Walrus Dude
   data: thewalrusdude.yml
-  image: https://ipfs.io/ipfs/bafybeia46l4jyu56isejs4cgqapalnkfiy5a5vc2zralkss65iw37dmap4
+  image: https://img1.sigma.gallery/arthouse/the-walrus-dude/35cf5e293f543cf5066371432d82182282f8f016514b3f346cba893b105ad8ad.webp
   description: Art House from Walrus DAO presents The Walrus Dude
 - label: Mic Battle Champion
   data: micbattlechampion.yml
-  image: https://gateway.ipfs.io/ipfs/bafybeieglp22h36kmjscik6nglxqwgdxtefaid6z7fyiw5osxqp6s3pev4
+  image: https://img1.sigma.gallery/arthouse/mic-battle-champion/12700014055d2983c32473f6c273561e9305078a91fdd78b3ef03bf2123af8f7.webp
   description: Art House from Walrus DAO presents Mic Battle Champion
 - label: Battle Of The Sea
   data: battleofthesea.yml
@@ -21,21 +21,21 @@ collections:
   description: Art House from Walrus DAO presents Battle of the Sea
 - label: Deep Water
   data: deepwater.yml
-  image: https://gateway.ipfs.io/ipfs/bafybeidhqm4imyfgoygf6kwa3qkaro6skc54c2bxqrsbcikvynxcq2tdvq
+  image: https://img1.sigma.gallery/arthouse/deep-water/47de7a1bacd17d800249b26657da7e08a466dbe30a419ab07f041a55d9dcc1f6.webp
   description: Art House from Walrus DAO presents Deep Water
 - label: Minwha Tiger
   data: minwha-tiger.yml
-  image: https://gateway.ipfs.io/ipfs/bafybeidcwgapppdcbb64qacqewewdf3v2mf6deev45o5tvlxgpe5tcbd6m
+  image: https://img1.sigma.gallery/arthouse/minwha-tiger/ead7d92cbeef5c9a0e4c4fde99c176c31b802c25da5cb742e0fbca4d583c6013.webp
   description: Art House from Walrus DAO presents Minwha Tiger
 - label: Ergo Doodle
   data: ergodoodle.yml
-  image: https://gateway.ipfs.io/ipfs/bafybeiaj3t3eodidcsspm4d5en2qmjuvypkxqvn53lgq56ovnkjzjppggm
+  image: https://img1.sigma.gallery/arthouse/ergo-doodle/ceef46eea5ffcee548ff6dbc6b71a0021b05e9d34e9a428d76c25ebada8dc944.webp
   description: Art House from Walrus DAO presents Ergo Doodle
 - label: Walrus DAO Logo
   data: walrusdaologo.yml
-  image: https://gateway.ipfs.io/ipfs/bafybeicrqoo5hf76hg4pty2smaytwljxicxxpqiw47xnkn6vc776nwsd4u
+  image: https://img1.sigma.gallery/arthouse/walrus-dao-logo/2b497694f995f005f67843073b9d13ba748004ab1b0afcb10c1113bb6e47aea6.webp
   description: Art House from Walrus DAO presents Walrus DAO Logo
 - label: Tiger & Magpie
   data: tiger-magpie.yml
-  image: https://ipfs.io/ipfs/bafybeihlvucno4bp67bl7edai4hj64bamwriu4i6tvgprixu42vftk3ome
+  image: https://img1.sigma.gallery/arthouse/tiger-magpie/d9d975299fe16c4e8954d001bc1d1c173dfb6e89d1d74320d98496852be8f2a9.webp
   description: Art House from Walrus DAO presents Tiger & Magpie
