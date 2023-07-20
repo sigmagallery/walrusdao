@@ -17,7 +17,7 @@ collections:
   description: Art House from Walrus DAO presents Mic Battle Champion
 - label: Battle Of The Sea
   data: battleofthesea.yml
-  image: https://gateway.ipfs.io/ipfs/bafybeib2jnrgdcjhm4ylwye2x3c4hm7q2bwwqz6chuak3crge7fsfazi6e
+  image: https://img1.sigma.gallery/arthouse/battle-of-the-sea/0daa5f9b11d9610369dc6d603da2de540697f3c5839fe664ac857160af888e0f.webp
   description: Art House from Walrus DAO presents Battle of the Sea
 - label: Deep Water
   data: deepwater.yml
